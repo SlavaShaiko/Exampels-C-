@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\bin\Debug\net6.0\Exampels001-HelloConsol.exe
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\bin\Debug\net6.0\Exampels001-HelloConsol.deps.json
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\bin\Debug\net6.0\Exampels001-HelloConsol.runtimeconfig.json
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\bin\Debug\net6.0\Exampels001-HelloConsol.dll
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\bin\Debug\net6.0\Exampels001-HelloConsol.pdb
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\obj\Debug\net6.0\Exampels001-HelloConsol.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\obj\Debug\net6.0\Exampels001-HelloConsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\obj\Debug\net6.0\Exampels001-HelloConsol.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\obj\Debug\net6.0\Exampels001-HelloConsol.AssemblyInfo.cs
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\obj\Debug\net6.0\Exampels001-HelloConsol.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\obj\Debug\net6.0\Exampels001-HelloConsol.dll
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\obj\Debug\net6.0\refint\Exampels001-HelloConsol.dll
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\obj\Debug\net6.0\Exampels001-HelloConsol.pdb
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\obj\Debug\net6.0\Exampels001-HelloConsol.genruntimeconfig.cache
+C:\Users\User\Desktop\Домашка\Exampels C#\Exampels\Exampels001-HelloConsol\obj\Debug\net6.0\ref\Exampels001-HelloConsol.dll
