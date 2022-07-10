@@ -1,12 +1,18 @@
-﻿Console.Write("Введите имя пользователя:  ");
-string username = Console.ReadLine();
-
-if(username.ToLower() == "slava")
-{ 
-    Console.Write("Oh may love Slava!  ");
-}
-else
+﻿internal class Program
 {
-     Console.Write("Hello,  ");
-     Console.Write(username);
+    private static void Main(string[] args)
+    {
+        Console.Write("Введите имя пользователя:  ");
+        string username = Console.ReadLine();
+
+        if (username.ToLower() == "slava")
+        {
+            Console.Write("Oh may love Slava!  ");
+        }
+        else
+        {
+            Console.Write("Hello,  ");
+            Console.Write(username);
+        }
+    }
 }
