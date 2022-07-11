@@ -38,8 +38,8 @@ int IndexOf(int[] collection, int find)
             position = index;
             break; // останавливает перебор if
         }
+        index++;
     }
-    index++;
     return position; //(медотд)который возвращает значение
 }
 int[] array = new int[10];
@@ -48,5 +48,5 @@ FillArray(array);
 PrintArray(array);
 Console.WriteLine();
 
-int pos = IndexOf(array, 6);
+int pos = IndexOf(array, 2);
 Console.WriteLine(pos);
